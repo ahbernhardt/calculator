@@ -1,0 +1,38 @@
+.btn {
+    width: 25%;
+    height: 100%;
+    font-size: 3rem;
+    font-family: inherit;
+    background-color: var(--color-white);
+    outline: none;
+    border: solid 0.5px transparent;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    transition: all .2s;
+}
+
+.btn:hover {
+    color: var(--color-light-orange-transparent);
+    background-color: var(--color-light-black);
+}
+
+.btn:active {
+    transform: scale(.95);
+}
+
+.btn--large {
+    width: 50%;
+}
+
+.btn--operator, .btn--primary {
+    color: var(--color-light-white);
+    background-color: var(--color-medium-black);
+}
+
+.btn--operator:hover, .btn--primary:hover{
+    color: var(--color-dark-blue-transparent);
+    background-color: var(--color-light-white);
+}

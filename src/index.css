@@ -1,0 +1,32 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  font-family: inherit;
+}
+
+/* Variables */
+:root {
+  --color-white: #fff;
+  --color-light-white: #eee;
+
+  --color-light-orange-transparent: #ffd89b;
+  --color-dark-blue-transparent: #19547b;
+
+  --color-light-black: #777;
+  --color-medium-black: #222;
+  --color-black: #000;
+
+  --shadow: rgba(0, 0, 0, .4);
+}
+

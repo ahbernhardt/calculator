@@ -1,0 +1,10 @@
+.keypad {
+    height: 60vh;
+    width: 100%;
+}
+
+.keypad__row {
+    height: 11vh;
+    width: 100%;
+    display: flex;
+}

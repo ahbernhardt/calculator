@@ -1,0 +1,34 @@
+.status-bar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--color-black);
+}
+
+#status-bar-logo,
+#status-bar-right {
+    padding: 4px 10px 0 10px;
+    width: 120px;
+    text-align: center;
+}
+
+#status-bar-logo span,
+#status-bar-right span {
+    font-weight: 600;
+}
+
+#status-bar-logo p {
+    padding-top: 1px;
+    font-size: 12px;
+    text-align: left;
+    color: #fbfbfb;
+    font-weight: 200;
+}
+
+#status-bar-right p {
+    padding-top: 1px;
+    font-size: 12px;
+    text-align: right;
+    color: #fbfbfb;
+    font-weight: 200;
+}
