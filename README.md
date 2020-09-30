@@ -4,7 +4,7 @@
 >
 >This project bootstrapped with [React App](https://github.com/facebook/create-react-app).
 
-Check for [Live Demo](https://anguyen0208.github.io/fcc-calculator/)
+Check for [Live Demo](https://anguyen0208.github.io/calculator/)
 
 ## Screenshot
 
