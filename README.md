@@ -10,7 +10,7 @@ Live project link: <https://anguyen0208.github.io/calculator/>
 
 ## Screenshot
 
-![calculator-screenshot](https://github.com/anguyen0208/images/blob/master/FCC-Drum-Machine.png)
+![calculator-screenshot](https://github.com/anguyen0208/Project-Screenshots/blob/master/FCC-Calculator.png)
 
 ## Objective
 
