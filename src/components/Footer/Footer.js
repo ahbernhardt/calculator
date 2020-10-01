@@ -11,7 +11,7 @@ class Footer extends Component {
                        href="https://github.com/anguyen0208"
                        target="_blank"
                        rel="noopener noreferrer">
-                        anhnguyen.page
+                        Anh Nguyen
                     </a>
                     <span> <span> </span>| </span>
                     <span>

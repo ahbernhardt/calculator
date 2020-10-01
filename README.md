@@ -1,12 +1,9 @@
 # JavaScript Calculator
 
-Build a JavaScript Calculator. This is the fourth project of [FreeCodeCamp Front End Libraries Certification](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine)
+Build a JavaScript Calculator. This is the fourth project of [FreeCodeCamp Front End Libraries Certification](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine). A Random quote machine built with React.
 
-A Random quote machine built with React.
-
-## Live Demonstration
-
-Live project link: <https://anguyen0208.github.io/calculator/>
+Check for [Live Demo](https://anguyen0208.github.io/calculator/)
+>
 
 ## Screenshot
 
