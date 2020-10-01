@@ -1,20 +1,25 @@
 # JavaScript Calculator
 
->Build a JavaScript Calculator. This is the fourth project of [FreeCodeCamp Front End Libraries Certification](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator). 
->
->This project bootstrapped with [React App](https://github.com/facebook/create-react-app).
+Build a JavaScript Calculator. This is the fourth project of [FreeCodeCamp Front End Libraries Certification](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine)
 
-Check for [Live Demo](https://anguyen0208.github.io/calculator/)
+A Random quote machine built with React.
+
+## Live Demonstration
+
+Live project link: <https://anguyen0208.github.io/calculator/>
 
 ## Screenshot
 
-![calculator-screenshot](https://github.com/anguyen0208/Project-Screenshots/blob/master/FCC-Calculator.png)
+![calculator-screenshot](https://github.com/anguyen0208/images/blob/master/FCC-Drum-Machine.png)
 
 ## Objective
 
-Build a [CodePen.io](https://codepen.io) app or other frontend framework that is functionally similar to this: <https://codepen.io/freeCodeCamp/full/wgGVVX>. 
+- Build a [CodePen.io](https://codepen.io) app that is functionally similar to this: <https://codepen.io/freeCodeCamp/full/wgGVVX.>. 
 
-### User Stories
+- Fulfill the below user stories and get all the tests to pass. Give it your own personal style.
+- Mix of HTML, JavaScript, CSS, Bootstrap, SASS, React, Redux, and jQuery to complete this project.
+
+## User Stories
 
 - [x] My calculator should contain a clickable element containing an `=` (equal sign) with a corresponding `id="equals"`.
 
@@ -39,6 +44,7 @@ Build a [CodePen.io](https://codepen.io) app or other frontend framework that is
   - Immediate Execution Logic: `11.5`
   - Formula/Expression Logic: `32.5`
 
+This project bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts for React app
 
@@ -46,26 +52,31 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app and view it on the browser in the development mode:
-    [http://localhost:3000](http://localhost:3000)
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.
+The page will reload if you make edits.<br>
+You will also see any lint errors in the console.
 
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br>
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run predeploy` or `npm run build`
+### `npm run build`
 
 Builds the app for production to the `build` folder.<br>
 
-### `npm run deploy`
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Deploy `build` folder to `gh-pages` branch of the repository .<br>
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
----
-### Learn More
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+
+## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
