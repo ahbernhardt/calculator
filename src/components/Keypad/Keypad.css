@@ -8,3 +8,27 @@
     width: 100%;
     display: flex;
 }
+
+@media screen and (max-width: 1280px) {
+    .keypad {
+        width: 100%;
+        height: 45vh;
+    }
+    .keypad__row {
+        height: 8vh;
+        width: 100%;
+        display: flex;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .keypad {
+        width: 100%;
+        height: 45vh;
+    }
+    .keypad__row {
+        height: 8vh;
+        width: 100%;
+        display: flex;
+    }
+}

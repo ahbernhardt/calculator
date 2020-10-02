@@ -13,7 +13,19 @@
 
     transition: all .2s;
 }
+@media screen and (max-width: 1280px) {
+    .button {
+        width: 20%;
+        height: 85%;
+    }
+}
 
+@media screen and (max-width: 640px) {
+    .button {
+        width: 20%;
+        height: 85%;
+    }
+}
 .btn:hover {
     color: var(--color-light-orange-transparent);
     background-color: var(--color-light-black);

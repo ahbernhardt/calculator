@@ -17,3 +17,14 @@
     font-weight: bolder;
     color: #FFFFFF;
 }
+@media screen and (max-width: 1280px) {
+    .display-panel {
+        height: 1.5rem;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .display-panel {
+        height: 1rem;
+    }
+}
