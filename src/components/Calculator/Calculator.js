@@ -21,7 +21,9 @@ class Calculator extends Component {
         else if (['+', '-', '*', '/', '%'].indexOf(pressedButton) !== -1) equation += ' ' + pressedButton + ' ';
         else if (pressedButton === '=') {
             try {
-                const evalResult = Function('"use strict";return (' + equation + ')')();
+                // eslint-disable-next-line
+                const evalResult = Function("use strict",
+                    'return (' + equation + ')')();
                 const result = Number.isInteger(evalResult)? evalResult : evalResult.toFixed(2);
                 this.setState({result});
             } catch (error) {

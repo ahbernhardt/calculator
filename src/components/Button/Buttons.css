@@ -5,7 +5,7 @@
     font-family: inherit;
     background-color: var(--color-white);
     outline: none;
-    border: solid 0.5px transparent;
+    border: solid 0.2px transparent;
 
     display: flex;
     justify-content: center;
@@ -13,19 +13,20 @@
 
     transition: all .2s;
 }
-@media screen and (max-width: 1280px) {
-    .button {
-        width: 20%;
-        height: 85%;
-    }
-}
+/*@media screen and (max-width: 1280px) {*/
+/*    .button {*/
+/*        width: 20%;*/
+/*        height: 85%;*/
+/*    }*/
+/*}*/
 
-@media screen and (max-width: 640px) {
-    .button {
-        width: 20%;
-        height: 85%;
-    }
-}
+/*@media screen and (max-width: 640px) and (min-width: 320px){*/
+/*    .btn {*/
+/*        width: 25%;*/
+/*        height: 100%;*/
+/*    }*/
+/*}*/
+
 .btn:hover {
     color: var(--color-light-orange-transparent);
     background-color: var(--color-light-black);
