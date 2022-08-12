@@ -2,12 +2,12 @@
 
 This is the fourth project of [FreeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator) - Front End Libraries Certification - and I used [React](https://github.com/facebook/create-react-app) for building this application.
 
-Checkout for [Live Demo](https://anguyen0208.github.io/calculator/)
+Checkout for [Live Demo](https://ahbernhardt.github.io/calculator/)
 >
 
 ## Screenshot
 
-![calculator-screenshot](https://github.com/anguyen0208/Project-Screenshots/blob/master/FCC-Calculator.png)
+![calculator-screenshot](https://github.com/ahbernhardt/Project-Screenshots/blob/master/FCC-Calculator.png)
 
 ## Objective
 
@@ -20,7 +20,7 @@ Checkout for [Live Demo](https://anguyen0208.github.io/calculator/)
 ## Usage
 
 ```sh
-git clone https://github.com/anguyen0208/calculator.git
+git clone https://github.com/ahbernhardt/calculator.git
 cd calculator
 
 # install dependencies
